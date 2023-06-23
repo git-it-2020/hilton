@@ -1,0 +1,23 @@
+.container {
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 20px;
+    font-weight:bold;
+    color: #333;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+  }
+  
+  .post-container {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .post-title {
+    margin-bottom: 3px;
+  }
